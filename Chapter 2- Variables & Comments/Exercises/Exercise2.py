@@ -1,8 +1,7 @@
 # String variable
 
-famous_person = 'Melinda Kunst'
+f_person = "David Viscott"
 
 # Formatted string
 
-message = f'{famous_person} once said, "Little by Little, Day by Day. What Is Meant for You Will Find Its Way."'
-print (message)
+print (f"'To love and be loved is to feel the sun from both sides.' by", f_person)
