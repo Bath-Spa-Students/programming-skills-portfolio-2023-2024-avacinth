@@ -1,7 +1,7 @@
 # String Variable
 
-msg = "I love attending my Code Lab 1 class."
-print(msg)
+message = "I enjoy going to the beach."
+print(message)
 
-msg = "It's very fun and entartaining!"
-print(msg)
+message = "I love the sound of the ocean wave."
+print(message)
