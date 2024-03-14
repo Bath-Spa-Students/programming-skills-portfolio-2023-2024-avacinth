@@ -1,14 +1,15 @@
 # Integer variable
 
-usb_stick_price = 6
+usb_price = 6
 budget = 50
 
-# How many USB sticks she can buy
-num_usb_sticks = budget // usb_stick_price
+'''USB sticks she can buy
+    Budget divided by the usb price '''
+can_buy = budget // usb_price
 
-# How many pounds she will have left
-remaining_budget = budget % usb_stick_price
+# Pounds she wil have left
+remaining_budget = budget % usb_price
 
-# Print the results
-print("The girl can buy", num_usb_sticks, "USB sticks.")
+# Results
+print("The girl can buy", can_buy, "USB sticks.")
 print("She will have £", remaining_budget, "left.")
