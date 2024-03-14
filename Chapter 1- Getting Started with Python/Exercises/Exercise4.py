@@ -1,7 +1,7 @@
 # string variable
-a = "I "
-b = "Love "
-c = "Desserts"
+a = "Seize "
+b = "the "
+c = "Day"
 
-# print the strings
+# printing the strings
 print (a+b+c)
