@@ -1,8 +1,6 @@
-# Printing the version of Python using sys
+# Print the version of Python using sys
 
 import sys
-print ("Python version")
-print (sys.version)
+print (f"Python version: ", sys.version)
 
-print ("Version info.")
-print (sys.version_info)
+print (f"Version info: ", sys. version_info)
