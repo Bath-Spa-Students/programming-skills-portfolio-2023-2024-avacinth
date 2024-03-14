@@ -1,6 +1,7 @@
-# Exercise 4: Favorite Number :ballot_box_with_check:
+# Variable
+fav_number = 11
 
-fav_num = 1111
-msg = f"My favorite number is {fav_num}."
+# Formatted message
+message = f"My favorite number is {fav_number}."
 
-print(msg)
+print (message)
