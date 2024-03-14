@@ -1,15 +1,15 @@
 # Stripping Names
 
-name = "\tHyacinth Ava\n"
+name = "\tHyacinth Ava Toribio"
 
-print("Unmodified:")
-print(name)
+print ("Original")
+print (name)
 
-print("\nUsing lstrip():")
-print(name.lstrip())
+print ("\nUsing lstrip()")
+print (name.lstrip())
 
-print("\nUsing rstrip():")
-print(name.rstrip())
+print ("\nUsing rstrip()")
+print (name.rstrip())
 
-print("\nUsing strip():")
-print(name.strip())
+print ("\nUsing strip()")
+print (name.strip())
