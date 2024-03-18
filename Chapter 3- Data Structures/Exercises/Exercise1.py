@@ -1,9 +1,10 @@
-# Creating a list
+# Create a List
 
-names = ["Sofia", "Shaima", "Myen"]
+friend_name = ["Jennie", "Rose", "Jisoo", "Lisa"]
 
-# List index
+# List Index
 
-print(names[0])
-print(names[1])
-print(names[2])
+print(friend_name[0])
+print(friend_name[1])
+print(friend_name[2])
+print(friend_name[3])
