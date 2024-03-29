@@ -5,5 +5,5 @@ x = 32
 y = "Hello!"
 
 # Printing the types of each variable
-print("Type of x:", type(x))
-print("Type of y:", type(y))
+print("Type of x = 32:", type(x))
+print("Type of y:'Hello'", type(y))
