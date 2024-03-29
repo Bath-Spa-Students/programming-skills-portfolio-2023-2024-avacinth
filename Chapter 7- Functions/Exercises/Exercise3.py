@@ -6,4 +6,4 @@ def make_shirt(size, message):
     
 make_shirt("Small", "First time on the Earth!")
 
-make_shirt(size = "Large", message = "It's me, hi!")
+make_shirt(size = "Medium", message = "It's me, hi!")
