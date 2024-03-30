@@ -6,3 +6,5 @@ me = {
     'City': 'Pampanga',
     'Course': 'Cyber Security'
 }
+
+print(me)
